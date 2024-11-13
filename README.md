@@ -39,8 +39,8 @@ Here are a few projects that showcase my work:
 
 If you're interested in collaborating or have any questions, feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/farhanmaulanasyidiq)
-- **Email**: your.engineer@farhanmaulana.me
-- **GitHub**: [github.com/username](https://github.com/aleaengineer)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/farhanmaulanasyidiq)
+- **Email**: Engineer.engineer@farhanmaulana.me
+- **GitHub**: [github.com/aleaengineer](https://github.com/aleaengineer)
 
 Thank you for visiting my GitHub! 😊

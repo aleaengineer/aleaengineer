@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Salma!
+# 👋 Hi there, I'm Farhan!
 
 I'm a **Digital Engineer** with a passion for technology, coding, and innovative solutions. My journey in the world of digital engineering combines analytical skills with creativity, empowering me to design, develop, and optimize digital systems that make a difference. Here’s a little more about what I do and what I love to work on:
 

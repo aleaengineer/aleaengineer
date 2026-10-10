@@ -1,6 +1,6 @@
 # Hi, I'm Farhan Maulana Syidiq 👋
 
-**NOC Engineer & Network Administrator** who also builds **web tools** —
+**NOC Engineer, Network Administrator & Security Engineer** who also builds **web tools** —
 keeping ISP networks stable while automating the boring parts with code.
 
 📍 West Java, Indonesia · 💼 NOC @ AFNALINK · 🌐 [farhanale.my.id](https://farhanale.my.id/)
